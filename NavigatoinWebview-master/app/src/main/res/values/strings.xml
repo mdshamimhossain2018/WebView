@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mini Institute</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="profile">
+       \n\n MD SHAMIM HOSSAIN\n
+        Apps Developer\n
+        Uttara University\n
+        Facebook: https://www.facebook.com/shamim.raja.73\n
+        Gmail: mdshamimh529@gmail.com
+
+
+    </string>
+</resources>

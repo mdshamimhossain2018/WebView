@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Twitter"
+            android:icon="@drawable/ic_facebook_circular_logo"
+            android:title="Facebook"
+           />
+        <item
+            android:id="@+id/GooglePlus"
+            android:icon="@drawable/ic_linkedin_logo"
+            android:title="Linkedin" />
+        <item
+            android:id="@+id/Pin"
+            android:icon="@drawable/p"
+            android:title="Pinterest" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share Apps" />
+
+    </group>
+
+
+
+</menu>
